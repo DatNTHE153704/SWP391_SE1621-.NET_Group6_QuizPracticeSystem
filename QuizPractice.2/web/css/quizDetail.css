@@ -1,0 +1,137 @@
+#quizDetail {
+    height: 660px;
+    max-width: 1000px;
+    border: 2px solid #bebebe;
+    /* text-align: center; */
+    margin-left: 400px;
+}
+
+.quizSub {
+    text-align: center;
+    background-color: #5087C7;
+    font-size: 18px;
+    margin-bottom: 5px;
+    border: 1px solid #bebebe;
+    border-radius: 10px;
+    color: white;
+
+}
+
+.img {
+    width: 400px;
+    height: 500px;
+}
+
+.quiz-content {
+    border: 2px solid #bebebe;
+    width: 570px;
+    height: 560px;
+    margin-left: 20px;
+}
+
+.quiz-content h4 {
+    font-size: 28px;
+    color: #a1a1a1;
+    margin-right: 110px;
+    margin-left: 10px;
+    border-bottom: 1px solid #bebebe;
+    margin-top: 20px;
+    margin-bottom: 20px
+}
+
+.content {
+    display: flex;
+}
+
+
+
+.quizName {
+    font-size: 25px;
+    color: #B5A359;
+    border-bottom: 1px solid #B0B4BF;
+    margin-right: 110px;
+    margin-left: 10px;
+    margin-bottom: 20px
+
+}
+
+.Expert {
+    color: #477680;
+    font-size: 23px;
+    border-bottom: 1px solid #B0B4BF;
+    margin-right: 110px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+.number {
+    font-size: 20px;
+    border-bottom: 1px solid #B0B4BF;
+    margin-right: 110px;
+    margin-left: 10px;
+    margin-bottom: 20px
+}
+
+.level {
+    color: #AD090B;
+    font-size: 20px;
+    border-bottom: 1px solid #B0B4BF;
+    margin-right: 110px;
+    margin-left: 10px;
+    margin-bottom: 20px
+}
+
+.time {
+    font-size: 20px;
+    border-bottom: 1px solid #B0B4BF;
+    margin-right: 110px;
+    margin-left: 10px;
+    margin-bottom: 20px
+}
+
+.date {
+    font-size: 20px;
+    border-bottom: 1px solid #B0B4BF;
+    margin-right: 110px;
+    margin-left: 10px;
+    color: #007bff;
+    margin-bottom: 20px
+}
+
+.detail-content {
+    border-bottom: 1px solid #B0B4BF;
+    margin-bottom: 40px;
+}
+
+.detail-content h6 {
+    color: #a1a1a1;
+    border-bottom: 1px solid #B0B4BF;
+    margin-right: 400px;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-size: 20px;
+    margin-left: 10px;
+
+}
+
+.back {
+    margin-left: 180px;
+    margin-right: 100px;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    padding: 10px 40px;
+    color: white;
+    background-color: #dc3545;
+}
+
+.practice {
+    text-decoration: none;
+    border: 1px solid #ccc;
+    padding: 10px 40px;
+    color: white;
+    background-color: #28a745;
+}

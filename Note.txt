@@ -1,0 +1,17 @@
+Lần đầu pull:
+
+B1: git clone https://gitlab.com/nh-m-6-se1606-swp391-quizpractice/swp391_quizpracticesystem.git
+B2: git pull
+
+Sau mỗi lần làm project đều pull về 
+
+Up lên git lab
+B1: git checkout -b tên
+B2: git add .
+B3: git commit -m "Nội dung up lên"
+B4: git push -u origin tên
+B5: lên gitlab ấn create merge requests
+B6: git checkout main
+B7: git branch -D tên
+
+background: #007bff;

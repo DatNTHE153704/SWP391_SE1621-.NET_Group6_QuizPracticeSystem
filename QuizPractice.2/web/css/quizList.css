@@ -1,0 +1,39 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jun 29, 2022, 9:54:53 AM
+    Author     : nguye
+*/
+
+.category_block li:hover {
+    background-color: #007bff;
+}
+.category_block li:hover a {
+    color: #ffffff;
+}
+.category_block li a {
+    color: #343a40;
+}
+
+p .quiz-name {
+    font-weight: 700;
+    font-family: inherit;
+    color: blue;
+    text-decoration: none;
+    width: 50%;
+    text-align: center;
+    padding-right: 55px;
+    padding-left: 5px;
+}
+.card-body .quiz-nameSub{
+    width: 50%;
+    text-align: center;
+    color: red;
+    font-family: inherit;
+}
+.quiz-col1{
+    display: flex;
+}

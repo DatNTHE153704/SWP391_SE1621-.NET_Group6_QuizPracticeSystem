@@ -1,0 +1,115 @@
+h2 {
+  font-family: "Jost", sans-serif;
+  text-align: center;
+  padding-bottom: 10px;
+  margin: 20px 0;
+}
+
+#carouselExampleIndicators {
+  padding-bottom: 90px;
+}
+
+.slide-show {
+  background-color: #1e8ff1;
+}
+
+.swiper-container {
+  width: 900px;
+  height: 500px;
+}
+
+.swiper-container p {
+  text-align: center;
+  font-style: italic;
+}
+
+.container.wish-list .card-body{
+  padding: 0.5rem;
+  
+}
+.wish-list p {
+  text-align: initial;
+  font-style: italic;
+}
+
+footer {
+  background-color: #1e8ff1;
+  max-height: fit-content;
+  margin-top: 1.5rem;
+}
+.footer-wraper {
+  height: 270px;
+  background-color: #1e8ff1;
+}
+.first-col img {
+}
+/* first col  */
+.first-col p {
+  color: aliceblue;
+  font-family: "Roboto", sans-serif;
+}
+
+#footer-description {
+  margin-top: 20px;
+}
+#logo-name {
+  color: aliceblue;
+  font-size: 50px;
+  font-family: "Roboto Mono", monospace;
+  margin-left: 20px;
+}
+/* second col */
+
+.second-col h5 {
+  color: aliceblue;
+  margin-top: 20px;
+  font-family: "Roboto", sans-serif;
+}
+.second-col ul {
+  list-style: none;
+}
+.second-col li {
+  padding: 10px 10px;
+}
+.second-col a {
+  text-decoration: none;
+  color: aliceblue;
+}
+
+/* third col */
+.third-col h5 {
+  color: aliceblue;
+  margin-top: 20px;
+}
+
+.third-col li {
+  color: aliceblue;
+  list-style: none;
+}
+.icon-mail {
+  display: inline-block;
+}
+.icon-location {
+  display: inline-block;
+}
+.icon-phone {
+  display: inline-block;
+}
+.phone-footer {
+  display: inline-block;
+}
+.location-footer p {
+  display: inline-block;
+}
+.mail-footer {
+  display: inline-block;
+}
+#logo-name {
+  display: inline-block;
+  
+  margin-bottom:0;
+}
+
+.view-more a{
+  margin: 20px 45%;
+}
